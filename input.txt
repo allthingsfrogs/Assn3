@@ -1,0 +1,8 @@
+(A+B*(C–D))/E;
+( A + B ) * C ;
+A + B / C * ( D - A );
+     A+(C – D );
+A+    D -D-D-C-A;
+C*D(D*C)                   ;
+(A-D)/(D*E)*(C+A*(D-B));
+   B-C-A *          (   A+D+ E              ) .

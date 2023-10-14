@@ -1,0 +1,16 @@
+Infix: (A+B*(C–D))/E;
+Postfix: A B C D * + E / 
+Infix: ( A + B ) * C ;
+Postfix: A B + C * 
+Infix: A + B / C * ( D - A );
+Postfix: A B C / D A - * + 
+Infix:      A+(C – D );
+Postfix: A C D + 
+Infix: A+    D -D-D-C-A;
+Postfix: A D + D - D - C - A - 
+Infix: C*D(D*C)                   ;
+Postfix: C D D C * * 
+Infix: (A-D)/(D*E)*(C+A*(D-B));
+Postfix: A D - D E * / C A D B - * + * 
+Infix:    B-C-A *          (   A+D+ E              ) .
+Postfix: B C - A A D + E + * - 
